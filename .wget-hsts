@@ -1,0 +1,5 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+www.virtualbox.org	0	0	1517948953	31536000
+zoom.us	0	0	1591035200	31536000
